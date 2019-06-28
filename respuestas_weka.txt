@@ -1,0 +1,5 @@
+What Instance Percentage is incorrectly clustered?
+R: Instancias agrupadas incorrectamente: 17 que equivalen al 11.3333 %.
+
+Which pair of non-class attributes appears to separate the classes best?
+R: Según los gráficos, el par de atributos que mejor separa las clases son petalwidth y petallength, pues se aprecian claramente los cluster formados
