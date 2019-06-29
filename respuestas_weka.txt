@@ -1,5 +1,18 @@
+Respuestas a Clustering Iris Data with Weka
+
+*Simple k-Means clustering
 What Instance Percentage is incorrectly clustered?
 R: Instancias agrupadas incorrectamente: 17 que equivalen al 11.3333 %.
 
+*Visualization
 Which pair of non-class attributes appears to separate the classes best?
 R: Según los gráficos, el par de atributos que mejor separa las clases son petalwidth y petallength, pues se aprecian claramente los cluster formados
+(incluir pantallazo)
+
+*Simply k-Means clustering ignoring attributes
+What instance percentage is incorrectly clustered using the chosen pair?
+R:Ignorando los atributos sepallength y sepalwidth, instancias agrupadas incorrectamente: 6 que corresponden al 4%.
+
+Can you further ignore one of these two attributes and achieve the same performance?
+R: Sí, si además se ignora el atributo petallength, se obtienes los mismos resusltado de la respuesta anterior.
+
